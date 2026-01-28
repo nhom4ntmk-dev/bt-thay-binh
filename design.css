@@ -1,10 +1,18 @@
 header {
-    background-color: #333;
+    background-color: rgba(14, 122, 179, 0.808);
     color: white;
     padding: 20px;
-    display: block;
+    display: flex;
+    text-align: left;
 }
-
+.header-text{
+    text-align: left;
+    padding: 30px;
+}
+.header-img {
+    width: 120px;
+    margin-right: 100px; 
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -58,9 +66,16 @@ nav a {
 .infosec { background-color: #f8d7da; }
 
 footer {
-    background-color: #222;
+    background-color: rgba(14, 122, 179, 0.808);
     color: white;
     padding: 40px;
     margin-top: 40px;
+    font-size: 22px;
     display: block;
+    text-align: left;
+}
+.footer-img{
+     width: 120px;
+    margin-right: 100px; 
+
 }
