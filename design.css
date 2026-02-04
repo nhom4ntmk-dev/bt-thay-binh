@@ -186,6 +186,10 @@ footer {
     font-size: 16px;
     text-align: left;
 }
+.body-main-content a {                    
+    color: white;            
+    font-size: 15px;
+}
 .body-sidebar {
     flex: 3;
     margin-left: 30px;
